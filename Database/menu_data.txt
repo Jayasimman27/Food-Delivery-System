@@ -1,0 +1,114 @@
+Hotel Sangethaas,2.3
+10
+Masala Dosa,70,Comfort
+Pineapple Cake,190,Celebration
+Cucumber Juice,50,Healthy
+Oreo Shake,100,Celebration
+Boba Tea,220,Celebration
+Chicken Wrap,75,Spicy
+Corn Soup,60,Relax
+Spicy Chicken Briyani,210,Spicy
+Banana Shake,35,Healthy
+Mashed Potatoes,35,Comfort
+
+Hotel King,5.3
+15
+Margherita Pizza,150,Comfort
+Chocolate Lava Cake,250,Indulgence
+Green Smoothie,80,Healthy
+Strawberry Milkshake,120,Indulgence
+Iced Coffee,100,Celebration
+Grilled Chicken Sandwich,180,Spicy
+Tomato Basil Soup,70,Relax
+BBQ Chicken Wings,200,Spicy
+Avocado Toast,120,Healthy
+Blueberry Muffin,50,Celebration
+Vegetable Stir Fry,110,Healthy
+Berry Blast Smoothie,90,Healthy
+French Fries,60,Comfort
+Beef Burger,220,Spicy
+Caesar Salad,130,Healthy
+
+Only Chicken,3.0
+10
+Grilled Chicken Breast,180,Healthy
+Chicken Caesar Salad,150,Healthy
+Spicy Chicken Wings,200,Spicy
+Chicken Alfredo Pasta,220,Comfort
+Chicken Tacos,170,Spicy
+Chicken Noodle Soup,120,Relax
+BBQ Chicken Sandwich,160,Comfort
+Lemon Herb Chicken,190,Healthy
+Buffalo Chicken Wrap,140,Spicy
+Chicken Fried Rice,130,Comfort
+
+Punjabi Dhaba,2.4
+10
+Butter Chicken,220,Comfort
+Paneer Tikka,180,Vegetarian
+Dal Makhani,150,Vegetarian
+Chicken Korma,210,Comfort
+Vegetable Samosa,80,Snack
+Fish Amritsari,230,Spicy
+Aloo Gobi,140,Vegetarian
+Lassi,60,Refresh
+Gulab Jamun,100,Dessert
+Naan,40,Side
+
+Grilliaz Restaurant,2.9
+12
+Grilled Salmon,250,Healthy
+Fruit Salad,100,Healthy
+Lemonade,60,Refresh
+Berry Smoothie,110,Healthy
+Espresso,90,Relax
+BBQ Pulled Pork Sandwich,170,Spicy
+Clam Chowder,140,Comfort
+Buffalo Wings,200,Spicy
+Quinoa Salad,130,Healthy
+Iced Tea,70,Refresh
+Veggie Burger,150,Healthy
+Garlic Bread,40,Comfort
+
+Hungry Mood,3.8
+8
+Classic Cheeseburger,180,Comfort
+Grilled Veggie Wrap,150,Healthy
+Chicken Wings,200,Spicy
+Margherita Pizza,160,Comfort
+Caesar Salad,120,Healthy
+BBQ Ribs,220,Spicy
+Strawberry Smoothie,90,Refresh
+Chocolate Brownie,100,Dessert
+
+Hang Out,4.3
+10
+Classic Burger,180,Comfort
+Grilled Chicken Salad,150,Healthy
+Buffalo Wings,200,Spicy
+Pepperoni Pizza,160,Comfort
+Greek Salad,120,Healthy
+BBQ Pork Ribs,220,Spicy
+Mango Smoothie,90,Refresh
+Chocolate Chip Cookie,100,Relax
+Chicken Tacos,170,Spicy
+Garlic Bread,60,Comfort
+
+Food Paradise,2.5
+8
+Seafood Linguine,220,Comfort
+Caprese Salad,130,Healthy
+Vegetable Stir-Fry,150,Healthy
+Tandoori Chicken,190,Spicy
+Quinoa Bowl,160,Healthy
+Beef Fajitas,200,Spicy
+Fruit Smoothie Bowl,110,Refresh
+Mushroom Risotto,180,Comfort
+
+
+
+
+
+
+
+

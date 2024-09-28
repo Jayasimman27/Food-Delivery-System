@@ -1,0 +1,287 @@
+Only Chicken,password,4.9,1,3.0,non-veg
+18
+chicken Nugget,90
+chicken 65,60
+Chicken Pasta,120
+Chicken Pulao,140
+Chicken Soup,60
+Dry Chicken Fry,100
+Chicken Masala,80
+Chicken Frankie,100
+Grilled Chicken Breast,180
+Chicken Caesar Salad,150
+Spicy Chicken Wings,200
+Chicken Alfredo Pasta,220
+Chicken Tacos,170
+Chicken Noodle Soup,120
+BBQ Chicken Sandwich,160
+Lemon Herb Chicken,190
+Buffalo Chicken Wrap,140
+Chicken Fried Rice,130
+
+
+Hotel Sri Krishna,password,4.6,2,5.3,veg
+10
+Dosai,110
+Idly,50
+Idiyappam,60
+Poori,70
+Pongal,60
+Vada,25
+Meals,130
+Curd Rice,60
+Sambar Rice,70
+Lemon Rice,50
+
+
+Hotel Sangethaas,password,4.5,1,2.3,veg
+19
+parotta,60
+Dosa,50
+Masala Dosa,60
+Ghee Dosa,65
+Chappathi,75
+Naan,50
+Meals,125
+Mini meals,90
+Veg Biriyani,80
+Panneer Butter Masala,120
+Pineapple Cake,190
+Cucumber Juice,50
+Oreo Shake,100
+Boba Tea,220
+Chicken Wrap,75
+Corn Soup,60
+Spicy Chicken Briyani,210
+Banana Shake,35
+Mashed Potatoes,30
+
+
+Hotel King,password,4.4,1,5.3,both
+24
+Masala Dosa,60
+Pepper chicken,120
+Naan,95
+Chappathi,20
+Meals,100
+Panneer Tikka Masala,150
+Chicken fried rice,95
+Egg manchurian,80
+Fish Fry,120
+Margherita Pizza,150
+Chocolate Lava Cake,250
+Green Smoothie,80
+Strawberry Milkshake,120
+Iced Coffee,100
+Grilled Chicken Sandwich,180
+Tomato Basil Soup,70
+BBQ Chicken Wings,200
+Avocado Toast,120
+Blueberry Muffin,50
+Vegetable Stir Fry,110
+Berry Blast Smoothie,90
+French Fries,60
+Beef Burger,220
+Caesar Salad,130
+
+
+Punjabi Dhaba,password,4.2,3,2.4,non-veg
+19
+Rotti,15
+Chicken Rice,120
+Egg rice,90
+Grill,450
+Naan,25
+Chicken Gravy,150
+Egg Gravy,100
+Chicken Noodles,120
+Egg Noodles,105
+Butter Chicken,220
+Paneer Tikka,180
+Dal Makhani,150
+Chicken Korma,210
+Vegetable Samosa,80
+Fish Amritsari,230
+Aloo Gobi,140
+Lassi,60
+Gulab Jamun,100
+Naan,40
+
+
+Food Paradise,password,4.2,2,2.5,non-veg
+23
+Chicken Briyani,180
+Mutton Briyani,210
+Egg Briyani,160
+Fish Briyani,200
+Beef Briyani,170
+Prawn Briyani,190
+Chicken Chettinad,230
+Chicken Masala,240
+Mutton Gravy,250
+Fish Fry,200
+Chicken Lollipop,180
+Chicken 65,160
+Chicken Tikka,175
+Non Veg Meals,200
+Veg Meals,180
+Seafood Linguine,220
+Caprese Salad,130
+Vegetable StirFry,150
+Tandoori Chicken,190
+Quinoa Bowl,160
+Beef Fajitas,200
+Fruit Smoothie Bowl,110
+Mushroom Risotto,180
+
+
+Briyani Spot,password,4.1,1,1.7,both
+9
+Chicken Briyani,150
+Mutton Briyani,180
+Beef Briyani,160
+Prawn Briyani,140
+Egg Thokku,120
+Spicy Chicken,120
+Mushroom Briyani,120
+Panneer Briyani,130
+Sizzling Chicken,145
+
+
+Andhra Mess,password,3.8,1,5.4,both
+9
+Hyderabadi chicken Briyani,190
+Hyderabadi Special Briyani,210
+Andhra Chicken Gravy,180
+Chettinad Chicken,200
+Chicken Rice,180
+Egg Rice,160
+Chicken Noodles,190
+Egg Noodles,180
+Andhra Mutton Masala,220
+
+
+Sai Bhavan,password,3.8,1,5.4,veg
+9
+Meals,80
+Bisi Bele Bath,60
+Curd Rice,50
+Veg Briyani,65
+Mushroom Rice,90
+Panneer Rice,110
+Lemon Rice,40
+Mushroom Briyani,120
+Cauliflower Briyani,110
+
+
+Anandha Bhavan,password,3.8,2,2.5,veg
+7
+Onion Dosa,60
+Kothu Parotta,75
+Poori,65
+Bun Poratta,80
+Chola Boori,40
+Veg noodles,30
+Pasta,40
+
+
+Vasantha bhavan,password,3.4,1,7.2,veg
+10
+Idly,15
+Dosa,60
+Poori,50
+Pongal,45
+Parrotta,35
+Meals,120
+Idiyappam,60
+Chilli Parotta,70
+Masal Dosa,80
+Veg briyani,75
+
+
+Food Palace,password,3.0,1,2.8,non-veg
+9
+Schezhwan Chicken Rice,150
+Chicken Rice,120
+Egg Rice,110
+Mojito,90
+Mint,40
+Chicken Briyani,160
+Egg Briyani,150
+Chicken Barbeque,480
+Chicken Tikka,140
+
+
+Hang Out,password,2.9,1,4.3,non-veg
+20
+Shawarma Roll,90
+Shawarma Plate,130
+BBQ Full,420
+Grill,400
+Fried Chicken,120
+Mojito,90
+Chicken Burger,120
+Pizza,150
+Chicken Nugget,80
+Chicken Frankie,110
+Classic Burger,180
+Grilled Chicken Salad,150
+Buffalo Wings,200
+Pepperoni Pizza,160
+Greek Salad,120
+BBQ Pork Ribs,220
+Mango Smoothie,90
+Chocolate Chip Cookie,100
+Chicken Tacos,170
+Garlic Bread,60
+
+
+Grillaz Restaurant,password,2.6,1,2.9,both
+23
+Chicken Briyani,140
+Veg Briyani,90
+Chicken Fried Rice,100
+Egg Rice,80
+Panneer Fried Rice,90
+Schezwan Mutton Fried rice,140
+Chicken Noodles,100
+Mutton Noodles,120
+Panneer Noodles,90
+Gobi Manchurian Dry,120
+Chilli Mushroom Gravy,120
+Grilled Salmon,250
+Fruit Salad,100
+Lemonade,60
+Berry Smoothie,110
+Espresso,90
+BBQ Pulled Pork Sandwich,170
+Clam Chowder,140
+Buffalo Wings,200
+Quinoa Salad,130
+Iced Tea,70
+Veggie Burger,150
+Garlic Bread,40
+
+
+Hungry Mood,password,2.3,1,3.8,non-veg
+18
+Chicken Briyani,140
+Egg Briyani,130
+Grill,440
+Tandoori,420
+Parotta,50
+Kizhi Parotta,150
+Kotthu Parotta,120
+Chicken Rice,130
+Egg Rice,110
+Chicken Noodles,130
+Classic Cheeseburger,180
+Grilled Veggie Wrap,150
+Chicken Wings,200
+Margherita Pizza,160
+Caesar Salad,120
+BBQ Ribs,220
+Strawberry Smoothie,90
+Chocolate Brownie,100
+
+
